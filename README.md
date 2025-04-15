@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 Hi! I'm **Kevin**, a 23-year-old student from Germany 🇩🇪.  
-I'm currently studying **Technical Computer Science** at the University of Applied Sciences in **REDACTED**
+I'm currently studying **Technical Computer Science** at the University of Applied Sciences in **REDACTED**. 
 Right now, I'm diving into the world of programming, starting out with **C/C++**. I'm still learning, but I'm excited to grow step by step!
 
 ## 🛠️ Skills & Tools
