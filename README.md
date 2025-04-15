@@ -39,7 +39,7 @@ Stay tuned for:
 
 Wanna chat or code together? I’m open to meet other devs and learners!
 
-- GitHub: [@yourUsername](https://github.com/xRyuks)
+- GitHub: [@xRyuks](https://github.com/xRyuks)
 
 ---
 
