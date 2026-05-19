@@ -15,13 +15,9 @@ Right now, I'm diving into the world of programming, starting out with **C/C++**
 
 ## 🚧 Projects
 
-I don’t have any big projects yet — but that’s okay!  
-This GitHub is a space where I’ll be uploading code from my learning journey, especially small C/C++ programs, experiments, and personal notes.
+[Password Checker🔐](https://github.com/xRyuks/Password-Checker)
 
-Stay tuned for:
-- Hello World stuff 👋
-- Tiny C/C++ practice programs
-- My first real code milestones 🚀
+[Reddit Watcher🕵🏼‍♂️](https://github.com/xRyuks/Reddit-Watcher)
 
 ## 📚 Learning Journey
 
